@@ -8,6 +8,14 @@ molecool
 A python package workshop, lead by molssi. 
 
 Lets see if this works I guess
+
+
+
+Features should be developed on branches. To create and switch a branch, use command
+'git checkout -b new_branch_name'
+To swithc back to an existing branch, use
+'git checkout branch_you_want'
+
 ### Copyright
 
 Copyright (c) 2021, Jose Bello
