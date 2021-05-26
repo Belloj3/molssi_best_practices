@@ -7,6 +7,7 @@ molecool
 
 A python package workshop, lead by molssi. 
 
+Lets see if this works I guess
 ### Copyright
 
 Copyright (c) 2021, Jose Bello
